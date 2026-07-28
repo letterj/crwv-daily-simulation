@@ -19,8 +19,8 @@ from lsm_american_put import price_put_lsm
 STATE_FILE = Path("/home/workdir/artifacts/crwv_strategy_state.json")
 LOG_FILE = Path("/home/workdir/artifacts/crwv_monitor_log.csv")
 STARTING_CAPITAL = 5000.0
-ENTRY_WINDOW_START = date(2026, 7, 20)
-ENTRY_WINDOW_END = date(2026, 7, 25)
+ENTRY_WINDOW_START = date(2026, 7, 29)
+ENTRY_WINDOW_END = date(2026, 8, 31)
 
 
 def load_state() -> Dict:

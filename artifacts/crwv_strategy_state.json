@@ -1,0 +1,19 @@
+{
+  "capital": 5000,
+  "cash": 4642.0,
+  "positions": [
+    {
+      "contracts": 1,
+      "strike": 64.6,
+      "entry_date": "2026-07-31",
+      "entry_premium": 3.58,
+      "entry_spot": 71.78,
+      "cost": 358.0,
+      "mtm_value": 358.0
+    }
+  ],
+  "realized_pnl": 0.0,
+  "total_equity": 5000.0,
+  "thesis_score": "Strengthens",
+  "last_updated": "2026-07-31T22:00:00Z"
+}

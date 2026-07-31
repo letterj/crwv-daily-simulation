@@ -1,0 +1,2 @@
+date,action,contracts,strike,premium,cost,spot,mtm_value,realized_pnl,cash,total_equity,thesis
+2026-07-31,ENTRY,1,64.6,3.58,358.0,71.78,358.0,0.0,4642.0,5000.0,Strengthens
